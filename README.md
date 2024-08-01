@@ -44,12 +44,17 @@ prossiga com os comandos necessario da loja.
 
 concentando db
 
-![image](https://github.com/user-attachments/assets/14134b97-2965-4c5a-ad25-30b7cfe7683e)
+![warden](https://github.com/user-attachments/assets/b5807b11-b76e-4666-b60d-1d0bcb6e45a2)
+
 
 na imagem acima, o server Host é o nome do container de db exibido pelo comando warden env ps.
 a porta é a 3306 conforme aparece no container do comando acima.
 para lojas magento a senha e usuario e database é magento.
 após preencher essa parte principal vamos para aba ssh.
+
+![Captura de tela de 2024-08-01 09-50-14](https://github.com/user-attachments/assets/492deb66-25e1-4266-8206-038dab1b2c08)
+
+
 
 para Host/ip é  127.0.0.1 porta 2222
 usr: user
